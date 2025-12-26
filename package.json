@@ -1,0 +1,12 @@
+{
+  "name": "men-basics",
+  "version": "1.0.0",
+  "description": "Taking Backend to next level",
+  "license": "ISC",
+  "author": "Subha Shil",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
