@@ -1,5 +1,5 @@
-import express from 'express';
-const app = express();
+import appModule from './app.js'
+const {app} = appModule;
 
 import * as dotenv from "dotenv";
 dotenv.config();
